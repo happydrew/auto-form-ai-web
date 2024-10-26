@@ -18,16 +18,18 @@ const sep = path.sep === "/" ? "/" : "\\\\"
 
 const ALLOWED_SVG_REGEX = new RegExp(`${sep}icons${sep}.+\\.svg$`)
 
-const isGithubAction = process.env.GITHUB_ACTIONS || false;
+const isProd = process.env.NODE_ENV === "production";
 let assetPrefix = "";
 let basePath = "";
 
-if (isGithubAction) {
-  const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, "");
+if (isProd) {
+  const repo = "auto-form-ai-web";
   assetPrefix = `/${repo}/`
   basePath = `/${repo}`
 }
 
+console.log("assetPrefix:", assetPrefix)
+console.log("basePath:", basePath)
 
 /**
  * @type {import('next').NextConfig}
