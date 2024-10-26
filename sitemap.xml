@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://happydrew.github.io/auto-form-ai-web</loc><lastmod>2024-10-26T13:51:03.235Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/blog</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/blog/_meta</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/blog/auto-form-ai</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/docs/_meta</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/docs/contact-us</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/docs/introduction</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/docs/privacy-policy</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://happydrew.github.io/auto-form-ai-web/tags/_meta</loc><lastmod>2024-10-26T13:51:03.236Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/</loc><lastmod>2024-10-26T13:51:28.925Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/blog/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/blog/auto-form-ai/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/docs/contact-us/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/docs/introduction/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/docs/privacy-policy/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/tags/AutoFormAI/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/tags/Chrome Extension/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/tags/AI/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://happydrew.github.io/auto-form-ai-web/tags/Web Form Autofill/</loc><lastmod>2024-10-26T13:51:28.926Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
