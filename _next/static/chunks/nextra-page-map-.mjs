@@ -17,7 +17,7 @@ export const pageMap = [{
       "author": "Drew Grant",
       "description": "AutoFormAI is an efficient and intelligent Chrome extension designed to help you quickly and easily complete various web forms.",
       "date": new Date(1729900800000),
-      "tags": ["AutoFormAI", "Chrome Extension", "AI", "Web Form Autofill"]
+      "tags": ["AutoFormAI", "ChromeExtension", "AI", "WebFormAutofill"]
     }
   }]
 }, {
